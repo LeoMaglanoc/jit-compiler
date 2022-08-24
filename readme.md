@@ -1,0 +1,1 @@
+This was a project done for the practical course "Systems Programming in C++" at TUM at the Chair for Database Systems. I had to create a Just-In-Time compiler for a simple language in C++. All of the infrastructure and cpp-files were written by me.
